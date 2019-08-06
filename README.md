@@ -46,3 +46,13 @@
 |    seata    |   分布式事务   |           [seata](https://github.com/seata/seata)            |
 | spring-boot |   spingboot    | [spring-boot](https://github.com/spring-projects/spring-boot) |
 
+## Python爬虫
+
+|         项目名称         |      项目描述      |                           项目链接                           |
+| :----------------------: | :----------------: | :----------------------------------------------------------: |
+| examples-of-web-crawlers | 一些python爬虫例子 | [examples-of-web-crawlers](https://github.com/shengqiangzhang/examples-of-web-crawlers) |
+|    distribute_crawler    |      小说爬虫      | [distribute_crawler](https://github.com/gnemoug/distribute_crawler) |
+|      awesome-spider      |  爬虫项目链接集合  |  [awesome-spider](https://github.com/facert/awesome-spider)  |
+
+
+
